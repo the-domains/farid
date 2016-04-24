@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[farid]]></title>
-        <description><![CDATA[farid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Kids Pics]]></title>
+        <description><![CDATA[Kids Pics]]></description>
+        <link>https://thegrid.ai/farid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 21:30:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 21:35:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/farid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.rollingstone.com/music/news/alice-cooper-on-axl-rose-joining-ac-dc-that-might-just-work-20160418</p>]]></description>
+            <link>https://thegrid.ai/farid/httpwwwrollingstonecommusicnewsalice-cooper-on-axl-r/index.html</link>
+            <guid isPermaLink="false">ac995e73-634b-4136-a48d-a8186048ff3f</guid>
+            <pubDate>Sun, 24 Apr 2016 21:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dba1a50-ff18-4e74-b85d-1c7bb8c19a97.jpg">]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/farid/test-post/index.html</link>
             <guid isPermaLink="false">d5217af1-8214-4257-b747-3d80eef2747b</guid>
             <pubDate>Sun, 24 Apr 2016 21:29:50 GMT</pubDate>
         </item>
